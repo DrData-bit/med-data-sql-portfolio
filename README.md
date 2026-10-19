@@ -36,8 +36,4 @@ The database models a clinical workflow spanning patient demographics, clinic vi
 
 ---
 
-## 🚀 Execution Instructions
 
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/DrData-bit/med-data-sql-portfolio.git](https://github.com/DrData-bit/med-data-sql-portfolio.git)
